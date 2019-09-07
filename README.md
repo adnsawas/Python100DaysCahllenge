@@ -3,3 +3,12 @@ This challenge is organized by Saudi Developers Org. to learn and practice Pytho
 
 # Files Structure
 Everyday challenge files will be grouped in one folder
+
+# Topic Covered
+- Variables
+- Numbers
+- String operations and formatting
+- Casting
+- Arithmetic and logical operators
+- Lists
+- Tuples
